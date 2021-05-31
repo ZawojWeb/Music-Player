@@ -7,8 +7,21 @@
 h1,
 h2,
 h3 {
-  color: rgb(68, 66, 66);
+  color: black;
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+h3,
+h4 {
+  font-weight: 400;
+  color: black;
+}
+.App {
+  min-height: 100vh;
 }
 
 @import "./player";
 @import "./song";
+@import "./library";
+@import "./nav";
