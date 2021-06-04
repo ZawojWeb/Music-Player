@@ -62,6 +62,18 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: "Wu-Tang",
+      cover:
+      process.env.PUBLIC_URL + "/img/20400228.jpg",
+      artist: "Matis",
+      audio: process.env.PUBLIC_URL +"/audio/Empotte_-_Nowy_Wu-Tang_110_bpm.mp3",
+      color: ["#1d2436", "#6e59dd"],
+      id: uuidv4(),
+      active: false,
+    },
+    
+    
     //ADD MORE HERE
   ];
 }
