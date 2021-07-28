@@ -23,6 +23,13 @@ const LibrarySong = ({song,setCurrentSong,songs,id,audioRef,isPlaying,setSongs})
 
         if(isPlaying) audioRef.current.play();
 
+
+
+
+
+
+
+        
     }
 
     return(
