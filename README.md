@@ -1,4 +1,4 @@
-# Musci player created in React
+# Music player created in React
 
   Music and img is taken from : https://chillhop.com/
   
